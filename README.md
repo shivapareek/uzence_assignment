@@ -9,7 +9,7 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3+-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-8.0+-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
-**[📚 View Storybook](https://68a1cdf1b2750994609f7263-imlsyxdnqw.chromatic.com/)** • **[🚀 Live Demo](https://your-demo-url.vercel.app)**
+**[📚 View Storybook](https://68a1cdf1b2750994609f7263-imlsyxdnqw.chromatic.com/)** 
 
 </div>
 

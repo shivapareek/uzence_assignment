@@ -59,8 +59,8 @@ This project showcases **two production-ready React components** built with mode
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/yourusername/react-components-project.git
-cd react-components-project
+git clone https://github.com/shivapareek/uzence_assignment.git
+cd uzence_assignment
 
 # 2️⃣ Install dependencies
 npm install
@@ -251,10 +251,10 @@ npm run build
 
 ## 📞 **Support & Contact**
 
-- 📧 **Email**: your.email@example.com
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- 🐙 **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
-- 🌐 **Portfolio**: [Your Portfolio Website](https://yourwebsite.com)
+- 📧 **Email**: pareekshiva2004@gmail.com
+- 💼 **LinkedIn**: [Shiva Pareek](https://linkedin.com/in/shivapareek)
+- 🐙 **GitHub**: [Your GitHub Profile](https://github.com/shivapareek)
+- 🌐 **Portfolio**: [My Portfolio Website](https://shivapareek.github.io/shivaportfolio/)
 
 ---
 

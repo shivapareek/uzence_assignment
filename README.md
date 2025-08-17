@@ -37,12 +37,12 @@ This project showcases **two production-ready React components** built with mode
 ### **InputField Component**
 *Flexible input with validation states & interactive features*
 
-![InputField Demo](https://via.placeholder.com/600x300/3B82F6/FFFFFF?text=InputField+Component+Demo)
+![InputField Demo](https://snapshots.chromatic.com/snapshots/68a1cdf1b2750994609f7263-68a1ce320fe78381551c1844/thumb/capture-402f3ffd.png)
 
 ### **DataTable Component**  
 *Feature-rich table with sorting, selection & loading states*
 
-![DataTable Demo](https://via.placeholder.com/600x350/10B981/FFFFFF?text=DataTable+Component+Demo)
+![DataTable Demo]([https://via.placeholder.com/600x350/10B981/FFFFFF?text=DataTable+Component+Demo](https://snapshots.chromatic.com/snapshots/68a1cdf1b2750994609f7263-68a1ce320fe78381551c1843/thumb/capture-4ca27b33.png))
 
 </div>
 

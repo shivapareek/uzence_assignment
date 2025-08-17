@@ -42,7 +42,7 @@ This project showcases **two production-ready React components** built with mode
 ### **DataTable Component**  
 *Feature-rich table with sorting, selection & loading states*
 
-![DataTable Demo]([https://via.placeholder.com/600x350/10B981/FFFFFF?text=DataTable+Component+Demo](https://snapshots.chromatic.com/snapshots/68a1cdf1b2750994609f7263-68a1ce320fe78381551c1843/thumb/capture-4ca27b33.png))
+![DataTable Demo](https://snapshots.chromatic.com/snapshots/68a1cdf1b2750994609f7263-68a1ce320fe78381551c1843/thumb/capture-4ca27b33.png))
 
 </div>
 

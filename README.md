@@ -225,131 +225,12 @@ interface Column {
 />
 ```
 
----
-
-## 🧪 **Testing Strategy**
-
-### **Testing Philosophy**
-- **User-Centric**: Test what users experience, not implementation details
-- **Accessibility**: Ensure components work with assistive technologies  
-- **Reliability**: Prevent regressions with comprehensive test coverage
-
-### **Test Coverage**
-- ✅ Component rendering
-- ✅ User interactions (click, type, keyboard navigation)
-- ✅ Props validation
-- ✅ State management
-- ✅ Accessibility features
-- ✅ Error handling
-
-### **Running Tests**
-
-```bash
-# Run all tests
-npm test
-
-# Watch mode for development
-npm run test:watch
-
-# Generate coverage report
-npm run test:coverage
-
-# Test specific component
-npm test -- InputField.test.tsx
-```
-
----
-
-## 🎨 **Design System**
-
-### **Color Palette**
-```css
-/* Primary Colors */
---blue-50: #eff6ff;
---blue-500: #3b82f6;
---blue-600: #2563eb;
-
-/* Status Colors */
---green-500: #10b981;  /* Success */
---red-500: #ef4444;    /* Error */
---yellow-500: #f59e0b; /* Warning */
---gray-500: #6b7280;   /* Neutral */
-```
-
-### **Typography Scale**
-- **Small**: 12px (0.75rem)
-- **Base**: 14px (0.875rem) 
-- **Medium**: 16px (1rem)
-- **Large**: 18px (1.125rem)
-- **XLarge**: 24px (1.5rem)
-
-### **Spacing System**
-- **xs**: 4px
-- **sm**: 8px
-- **md**: 16px
-- **lg**: 24px
-- **xl**: 32px
-
----
-
-## 🌐 **Browser Support**
-
-| Browser | Version |
-|---------|---------|
-| Chrome | 90+ |
-| Firefox | 88+ |
-| Safari | 14+ |
-| Edge | 90+ |
-
----
-
 ## 🚀 **Deployment**
 
 ### **Build for Production**
 ```bash
 npm run build
 ```
-
-### **Deploy Storybook**
-```bash
-# Build Storybook
-npm run build-storybook
-
-# Deploy to Chromatic (recommended)
-npx chromatic --project-token=
-
-# Or deploy to Vercel/Netlify
-# Upload the `storybook-static` folder
-```
-
-### **Environment Variables**
-```env
-# .env.example
-VITE_APP_TITLE="React Components Library"
-VITE_API_URL="https://api.example.com"
-CHROMATIC_PROJECT_TOKEN="your-chromatic-token"
-```
-
----
-
-## 📋 **Development Guidelines**
-
-### **Code Standards**
-- ✅ TypeScript strict mode enabled
-- ✅ ESLint + Prettier for code formatting
-- ✅ Conventional commit messages
-- ✅ Component-first architecture
-- ✅ Accessibility best practices
-
-### **Component Checklist**
-Before submitting a component, ensure:
-- [ ] TypeScript interfaces defined
-- [ ] Props documented with JSDoc
-- [ ] Unit tests written
-- [ ] Storybook stories created
-- [ ] Accessibility tested
-- [ ] Responsive design verified
-- [ ] Error states handled
 
 ### **Contributing**
 1. Fork the repository
@@ -358,17 +239,6 @@ Before submitting a component, ensure:
 4. Commit changes (`git commit -m 'Add amazing component'`)
 5. Push to branch (`git push origin feature/amazing-component`)
 6. Open a Pull Request
-
----
-
-## 📊 **Performance Metrics**
-
-- ⚡ **Bundle Size**: < 50kb gzipped
-- 🚀 **Load Time**: < 2s on 3G
-- ♿ **Lighthouse Score**: 100/100 Accessibility
-- 📱 **Mobile Performance**: 95+ PageSpeed score
-
----
 
 ## 🤝 **Acknowledgments**
 
